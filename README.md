@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Projects
+## Projects
 
 - [RustyBoy](https://github.com/brycedc/rustyboy): A Gameboy emulator written in Rust
 - [ESP32 Blackout](https://github.com/brycedc/esp32-blackout): A WiFi pentesting tool written in C
 
-### Langauges and tools:
+## Langauges and tools:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
@@ -14,5 +14,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 </div>
 
-### Stats
-[![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brycedc)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
+[![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brycedc)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
