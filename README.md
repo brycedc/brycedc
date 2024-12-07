@@ -2,12 +2,12 @@
 
 I don’t always write perfect code, but when I do, it’s a typo.
 
-## Projects 💻
+## Projects 
 
 - [RustyBoy](https://github.com/brycedc/rustyboy): A Gameboy emulator written in Rust
 - [ESP32 Blackout](https://github.com/brycedc/esp32-blackout): A WiFi pentesting tool written in C
 
-## Langauges and tools 🔨
+## Langauges and tools 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
@@ -18,7 +18,7 @@ I don’t always write perfect code, but when I do, it’s a typo.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-## Stats 🗒️
+## Stats 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=brycedc&theme=dark" alt="Github Stats" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brycedc&theme=dark" title="Top-Langauges" alt="Top-Langauges" height="200"/>
