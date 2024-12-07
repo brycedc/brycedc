@@ -19,5 +19,5 @@ I don’t always write perfect code, but when I do, it’s a typo.
 </div>
 
 ## Stats
-[![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brycedc&theme=dark)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brycedc&theme=dark)]
+<img src="https://github-readme-stats.vercel.app/api?username=brycedc&theme=dark" alt="Github Stats" height="100"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brycedc&theme=dark)
