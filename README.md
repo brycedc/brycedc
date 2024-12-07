@@ -6,6 +6,7 @@ I don’t always write perfect code, but when I do, it’s a typo.
 
 - [RustyBoy](https://github.com/brycedc/rustyboy): A Gameboy emulator written in Rust
 - [ESP32 Blackout](https://github.com/brycedc/esp32-blackout): A WiFi pentesting tool written in C
+- [HackTheBox](https://www.hackthebox.com/): Participating in Cyber CTF challenges
 
 ## Langauges and tools 
 <div>
