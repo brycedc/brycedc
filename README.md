@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
+
+I don’t always write perfect code, but when I do, it’s a typo.
 
 ## Projects
 
@@ -15,4 +17,4 @@
 </div>
 
 ## Stats
-[![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brycedc)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+[![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brycedc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
