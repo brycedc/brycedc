@@ -1,6 +1,6 @@
-## Hi there 👋 
+## Hi I'm Bryce 👋 
 
-I don’t always write perfect code, but when I do, it’s a typo.
+- I'm currently learning Rust, checkout my project [RustyBoy](https://github.com/brycedc/rustyboy)
 
 ## Projects 
 
