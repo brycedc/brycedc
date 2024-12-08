@@ -21,6 +21,6 @@ I don’t always write perfect code, but when I do, it’s a typo.
 
 ## Stats 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=brycedc&theme=dark" title="Stats" alt="Github Stats" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brycedc&theme=dark" title="Top-Langauges" alt="Top-Langauges" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=brycedc&theme=nord&show_icons=true" title="Stats" alt="Github Stats" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brycedc&theme=nord&exclude_repo=bouple" title="Top-Langauges" alt="Top-Langauges" height="200"/>
 </div>
