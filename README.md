@@ -1,4 +1,4 @@
-## Hi I'm Bryce 👋 
+## Hi, I'm Bryce 👋 
 
 - I'm currently learning Rust, checkout my project [RustyBoy](https://github.com/brycedc/rustyboy)
 
