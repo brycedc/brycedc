@@ -1,6 +1,6 @@
 ## Hi, I'm Bryce 👋 
 
-- I'm currently learning Rust, checkout my project [RustyBoy](https://github.com/brycedc/rustyboy)
+- Checkout the software I use with [Linux](https://github.com/brycedc/linux-software)
 
 ## Projects 
 
