@@ -18,9 +18,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-
-## Stats 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=brycedc&theme=nord&show_icons=true" title="Stats" alt="Github Stats" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brycedc&theme=nord&exclude_repo=bouple" title="Top-Langauges" alt="Top-Langauges" height="200"/>
-</div>
